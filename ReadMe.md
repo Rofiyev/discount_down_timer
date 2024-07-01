@@ -15,6 +15,6 @@
 
 2. To start the project, you need to open the index.html file in the browser:
 
-```bash
-index.html
-```
+   ```bash
+   index.html
+   ```
