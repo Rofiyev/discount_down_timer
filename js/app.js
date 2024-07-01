@@ -1,7 +1,7 @@
 'use strict';
 
 // Akisya tugash kuni!
-const deadline = '2023-07-01';
+const deadline = '2024-08-01';
 
 function getTimeRemaining(endTime) {
   const timer = Date.parse(endTime) - Date.parse(new Date);
